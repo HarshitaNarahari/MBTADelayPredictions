@@ -1,5 +1,5 @@
 # MBTADelayPredictions
-This repository contains my DS3000 Foundations of Data Science final project which predicts the delays on the MBTA based on the occupancy status using Python.
+This repository contains my DS3000 Foundations of Data Science final project which predicts the delays on the MBTA based on the occupancy status using Python as the developing language.
 
 The goal of our project was to determine whether there was a relationship between the stopping
 sequences and the amount of time a train has been delayed in the Massachusetts Bay
